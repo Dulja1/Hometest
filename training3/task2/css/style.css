@@ -1,0 +1,61 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body{
+    background-color: teal;
+
+}.loginform{
+    background-color: white;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 40px 0 10px;
+    text-align: center;
+
+}
+.title{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    color: yellowgreen;
+
+}
+.label{
+    width: 200px;
+    padding: 5px;
+    text-align: left;
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: top;
+
+}
+.email, .pass{
+    width: 300px;
+    font-size: 20px;
+    padding: 5px 10px;
+    
+}
+
+.pass{
+
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 10px 30px;
+    border: 1px solid grey;
+    
+}
+
+p{
+
+    margin-bottom: 30px;
+}

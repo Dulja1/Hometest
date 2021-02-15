@@ -1,0 +1,15 @@
+#col1{
+    float: left;
+    background-color: tomato;
+    width: 150px;
+}
+#col2{
+    background-color: teal;
+    width: 200px;
+
+}
+#col3{
+    background-color: yellow;
+    width: 300px;
+
+}

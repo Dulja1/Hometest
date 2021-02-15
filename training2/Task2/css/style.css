@@ -1,0 +1,33 @@
+div
+    {
+        background-color: aquamarine;
+        margin: 5px;
+        border: 1px solid grey;}
+
+    #first{
+        background-color: red;
+    }
+    #second{
+        background-color: yellow;
+    }
+    #third{
+        background-color:green;
+    }
+
+    .item {
+        border: 5px solid grey;
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        display: inline-block;
+    }
+
+    .box{ 
+        width: 520px;
+        height: 170px;
+        background-color: black;
+        border: 5px solid yellow; 
+        display: block;
+    }
+        
+      

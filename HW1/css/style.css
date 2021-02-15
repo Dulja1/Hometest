@@ -1,0 +1,32 @@
+*{
+    background-color: grey;
+    margin: 3px;
+    padding: 0px;
+    
+    
+}
+
+
+.img{
+    width: 100px;
+    height: 70px;
+    float: left;
+
+}
+
+.video{
+
+    margin-left: 700px;
+    
+}
+
+.title{
+    margin-left: 345px;
+    font-size: 50px;
+    
+}
+.pages{
+    font-size: 30px;
+    color: white;
+
+}

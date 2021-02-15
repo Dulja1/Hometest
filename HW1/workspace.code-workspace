@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../SK-training"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FETRIANING"
+	}
+}

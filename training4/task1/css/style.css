@@ -1,0 +1,25 @@
+.box{
+    background-color: red;
+    width: 500px;
+    height: 300px;
+    color: grey;
+    margin: 20px;
+    overflow: scroll
+
+    
+}
+#two{
+    position: relative;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+
+}
+.positioned{
+    position: fixed;
+    background-color: yellow;
+    top: 70px;
+    left: 70px;
+    width: 200px;
+    height: 50px;
+}
